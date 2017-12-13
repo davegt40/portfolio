@@ -1,0 +1,74 @@
+body {
+	background: #E3F2FD;
+}
+
+#header, #footer {
+	background: #01579b;
+}
+
+#header {
+	margin-top: 0px;
+	color: #EEEEEE;
+	font-size: 1.6em;
+}
+
+h2 {
+	font-size: 1.4em;
+}
+
+h1 {
+	font-size: 2.6em;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+#content {
+	background: #FFFFFF;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #424242;
+}
+
+#me {
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 50%;
+}
+
+.thumbnail-containers {
+	margin: auto;
+}
+
+.thumbnail img {
+	width: auto;
+	height: 300px;
+}
+
+form {
+	font-size: 1.2em;
+	margin-bottom: 5px;
+}
+
+.form-control {
+	height: 40px;
+}
+
+#form-btn {
+	width: 100px;
+}
+
+
+#footer {
+	color: #EEEEEE;
+	font-size: 1.6em;
+	text-align: center;
+}
+
+#contact {
+	float: left;
+	clear: both;
+}
